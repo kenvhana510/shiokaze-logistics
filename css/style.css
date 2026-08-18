@@ -141,7 +141,7 @@ h1, h2, h3, p, dl, dd { margin: 0; }
 /* ---------- Hero ---------- */
 .hero {
   position: relative;
-  background: linear-gradient(120deg, rgba(11,37,69,0.90) 0%, rgba(23,51,92,0.84) 55%, rgba(15,58,99,0.74) 100%), url("images/hero.jpg") center 40% / cover no-repeat;
+  background: linear-gradient(120deg, rgba(11,37,69,0.90) 0%, rgba(23,51,92,0.84) 55%, rgba(15,58,99,0.74) 100%), url("../images/hero.jpg") center 40% / cover no-repeat;
   color: #fff;
   overflow: hidden;
   padding: 96px 0 72px;
